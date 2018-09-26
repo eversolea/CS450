@@ -1,34 +1,67 @@
-After completing the assignment, please answer the questions in this text file and submit it to I-Learn.
+# -*- coding: utf-8 -*-
+import numpy as np
+from sklearn import datasets 
+from sklearn.model_selection import train_test_split 
+from sklearn.naive_bayes import GaussianNB
+iris = datasets.load_iris()
 
-1. Copy and paste the URL for your Heroku web application:
+#Make my custom Alogrithm class
+class HardCodedClassifier:
+    
+    def fit(self, data_train, targets_train):
+        m = HardCodedModel()
+        return m
 
-https://enigmatic-bastion-35195.herokuapp.com/hello.html
+class HardCodedModel:
+    
+    def predict(self, data_test):
+        perdiction = np.zeros(len(data_test))
+        for i in range(len(data_test)):
+            #I would do my custom algorithm here
+            perdiction[i] = 0
+        return perdiction
+            
+#Added a main! sweet!
+def main():
+    # Show the data (the attributes of ech instance)
+    print(iris.data)
+    
+    # Show the target values (in numeric format) of each instance
+    print(iris.target)
+    
+    # Show the actual target names that correspond to each number
+    print(iris.target_names)
+    
+    X_train, X_test, Y_train, Y_test = train_test_split(iris.data, iris.target, test_size=0.33, random_state = 42)
+    
+    clf = GaussianNB()
+    clf.fit(X_train, Y_train)
+    print(clf)
+    perdiction = clf.predict(X_test)
+    print(Y_test)
+    print(perdiction)
+    
+    counter = 0
+    for i in range(len(perdiction)):
+        if perdiction[i] == Y_test[i]:
+            counter = counter + 1
+    
+    print("Accuarcy: " + str(counter/len(perdiction)))
+    
+    classifier = HardCodedClassifier()
+    model = classifier.fit(X_train, Y_train)
+    perdiction = model.predict(X_test)
+    
+    counter = 0
+    for i in range(len(perdiction)):
+        if perdiction[i] == Y_test[i]:
+            counter = counter + 1
+    
+    
+    print(Y_test)
+    print(perdiction)
+    
+    print("Accuarcy: " + str(counter/len(perdiction)))
 
-2. Copy and paste the URL for your GitHub source code repository:
-
-https://github.com/eversolea/cs313-php
-
-3. Briefly list and describe the elements of the application that are functioning. Include any special instructions about how to login and/or use your application.
-
-No special instructions, both repository and html link should be public :)
-
-4. Briefly describe any pieces of the assignment that are not yet working correctly.
-
-Everything works!
-
-5. Briefly describe the "coolest" thing you learned while completing this assignment.
-
-Heroku is one of the coolest things on the planet! I learned that you can use git push to make a website live! very cool.
-
-6. Please select the category you feel best describes your assignment: [A-E]
-A - Some attempt was made
-B - Developing, but significantly deficient
-C - Slightly deficient, but still mostly adequate
-D - Meets requirements
-E - Shows creativity and excels above and beyond requirements
-
-E
-
-7. Provide a brief justification (1-2 sentences) for selecting that category.
-
-Though I didn't get php working, I was able to embed a youtube video on this page and messed around with styling quite a bit. Along with doing all the other requirements for this assignment.
+if __name__== "__main__":
+  main()

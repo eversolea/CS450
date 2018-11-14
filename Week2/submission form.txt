@@ -1,0 +1,31 @@
+When your assignment is complete, please answer the questions in this text file and upload it to I-Learn.
+
+1. Please provide the URL of your public GitHub repository.
+https://github.com/eversolea/CS450/blob/master/Week2/Prove.py
+
+2. Briefly describe your overall approach to the task and highlight the most difficult part of this assignment.
+To accomplish the kNN algorithm, I used the techniques we talked about in class. Where I might have differentiated from other students is that I made a function called "rank()" which manages a 'k' number 2D array with row 0 being the distance and row 1 being the ID. When rank(distance,id) is called, the function puts the new data in the 2D Array if it is smaller than any of the data already in the array. Then it sorts it by the distance (row 0). That turned out to be a lot of trouble but in the end it worked.
+
+3. Briefly describe your process for handling numeric data on different scales (i.e., normalizing).
+I used the sklearn StandardScaler, which scaled the data by quite a bit. But my kNN algorithm still handled it fine, although when I scaled the data it changed the accuracy a little bit.
+
+4. Describe your results for the Iris data set. (For example, what level of accuracy did you see for different values of K?
+I found that k started out accurate, especially as it hit k=7. From then on, the accuracy went down slowly, then quickly as k approached 90. After k=90, all the classes would be perdicted to be 1 so it stopped at an accuracy of 0.3
+
+5. How did your implementation compare to existing implementations?
+My implentation was better than the Gaussian method by 2%! Before the data was scaled, it actually reached 100% several times. My implentation is as good as the built-in sklearn kNN algorithm when k=7
+
+6. Describe anything you did to go above and beyond the minimum standard requirements.
+I implemented a graph that graphs the iris data set and colors in the different areas that would be classified as each flower class. I used k=3 as an example. I got this idea from a demonstration in class by a student, and I really liked it.
+
+7. Please select the category you feel best describes your assignment:
+A - Some attempt was made
+B - Developing, but significantly deficient
+C - Slightly deficient, but still mostly adequate
+D - Meets requirements
+E - Shows creativity and excels above and beyond requirements
+
+I think my assignment is an E grade.
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+I worked very hard debugging and getting my code to work. Afterwords, I tested out all sorts of 'k' values and found the pattern I described. Then I discovered how to and plotted a class distinction graph of the kNN algorithm. All my sources were cited.

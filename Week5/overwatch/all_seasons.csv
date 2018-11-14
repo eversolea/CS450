@@ -1,0 +1,307 @@
+season,Game #,Start SR,End SR,SR Change,Team SR avg,Enemy SR avg,Team Stack,Enemy Stack,Role 1,Role 2,Result,Streak,Leaver,Map,Mode,Match Time,Gold medals,Silver medals,Bronze medals,No medals,Elim,Elim_career,Elim_medal,Obj_kills,Obj_kills_career,Obj_kills_medal,Obj_time,Obj_time_career,Obj_time_medal,Dmg,Dmg_career,Dmg_medal,Heal,Heal_career,Heal_medal,Death,Death_career
+9,108,1806,1787,-19,1831,P,,,Support,,Loss,-1,No,Eichenwalde,Assault/Escort,15:08,0,0,1,0,24,21.8,Bronze,16,12.73,,1:49,1:32,,10615,5435,,9711,7844,,13,6.65
+9,109,1787,1787,0,1836,1847,,,Offense,Support,Draw,0,No,Temple of Anubis,Assault,8:19,,,,,24,19.62,,16,11.34,,0:19,1:27,,5973,5246,,1958,6651,,6,6.97
+9,110,1787,1812,25,1817,1818,,,Tank,,Win,1,No,Hanamura,Assault,10:42,0,1,1,3,16,19.59,None,4,11.27,None,0:39,1:27,Bronze,6959,5257,Silver,0,6594,None,5,6.95
+9,111,1812,1841,29,1827,1839,,,Support,,Win,2,No,King's Row,Assault/Escort,11:29,2,0,0,3,22,21.89,None,16,12.85,Gold,1:39,1:32,None,5601,5448,None,10719,7851,Gold,8,6.64
+9,112,1841,1866,25,1900,1891,4,3,Tank,Support,Win,3,No,Watchpoint: Gibraltar,Escort,5:53,0,2,0,3,16,19.62,None,13,11.35,Silver,0:35,1:27,None,2658,5251,None,2330,6608,Silver,5,6.96
+9,113,1866,1901,35,1891,1896,1,1,Support,,Win,4,No,Oasis,Control,9:35,4,0,1,0,31,22.04,Gold,24,13.02,Gold,2:34,1:33,Gold,6324,5460,Bronze,9635,7888,Gold,4,6.61
+9,114,1901,1926,25,1946,1960,3,2,Tank,,Win,5,No,Temple of Anubis,Assault,,0,1,0,4,,,None,,,None,,,Silver,,,None,0,,None,,
+9,115,1926,1958,32,1943,1949,1,1,Support,,Win,6,No,Hanamura,Assault,12:10,4,0,0,1,28,22.06,Gold,20,13.06,Gold,1:57,1:33,Gold,5871,5453,None,10761,7902,Gold,5,6.58
+9,116,1958,1937,-21,1959,1952,2,1,Support,,Loss,-1,No,King's Row,Assault/Escort,17:21,1,2,0,2,26,19.63,None,17,11.48,Silver,3:19,1:28,Silver,9429,5254,None,14541,6606,Gold,11,6.92
+9,117,1937,1968,31,1945,1960,3,2,Support,,Win,1,No,King's Row,Assault/Escort,10:54,2,1,2,0,30,22,Silver,20,13.06,Gold,1:54,1:33,Bronze,5678,5454,Bronze,8491,7909,Gold,5,6.55
+9,118,1968,1996,28,1982,2012,2,1,Support,,Win,2,No,Oasis,Control,12:05,1,0,2,2,28,22.03,Bronze,19,13.1,Bronze,2:17,1:34,None,6096,5450,None,9919,7915,Gold,9,6.57
+9,119,1996,2023,27,2004,2004,2,2,Support,,Win,3,No,Eichenwalde,Assault/Escort,12:12,2,2,0,1,26,22.02,Silver,12,13.06,Gold,2:11,1:34,Silver,6200,5446,None,10821,7928,Gold,7,6.56
+9,120,2023,2003,-20,2004,2016,1,1,Support,,Loss,-1,No,Hollywood,Assault/Escort,5:39,2,1,0,2,4,21.94,None,3,13.02,None,0:29,1:34,Silver,3836,5455,Gold,6673,7952,Gold,3,6.55
+9,121,2003,2030,27,2000,1992,1,1,Support,,Win,1,No,Ilios,Control,12:58,0,2,0,3,21,15.86,None,16,10.02,None,3:53,1:48,Silver,5463,3525,None,9203,8201,Silver,9,7.98
+9,122,2030,2054,24,2002,2012,2,2,Tank,,Win,2,No,Lijiang Tower,Control,14:17,0,1,1,3,26,19.66,None,18,11.57,Silver,2:39,1:30,Bronze,7647,5253,None,0,6613,None,13,6.92
+9,123,2054,2081,27,2051,2066,1,2,Support,,Win,3,No,Route 66,Escort,8:38,4,0,0,1,28,22.03,Gold,22,13.13,Gold,2:51,1:35,Gold,4361,5452,None,5802,7941,Gold,2,6.51
+9,124,2081,2110,29,2060,2028,4,4,Support,,Win,4,No,Volskaya Industries,Assault,12:27,2,2,1,0,37,19.83,Silver,17,11.67,Gold,1:15,1:30,Gold,7258,5258,Bronze,10287,6629,Silver,7,6.88
+9,125,2110,2137,27,2123,2122,1,1,Support,,Win,5,No,Hanamura,Assault,12:15,1,3,0,1,29,19.87,Silver,18,11.7,Gold,1:44,1:30,Silver,5387,5251,None,9846,6642,Silver,10,6.89
+9,126,2137,2158,21,2127,2123,1,1,Tank,,Win,6,No,Blizzard World,Assault/Escort,13:47,1,1,0,3,20,14.94,None,14,9.91,Gold,2:44,1:39,Silver,5269,4926,None,0,,None,10,7.18
+9,127,2158,2182,24,2183,2182,1,2,Support,,Win,7,No,Dorado,Escort,14:56,1,2,0,2,23,15.67,None,14,9.86,Silver,2:53,1:49,Silver,4563,3465,None,11923,8136,Gold,11,7.92
+9,128,2182,2206,24,2182,2157,2,3,Support,,Win,8,No,Numbani,Assault/Escort,17:34,1,2,0,2,35,22.18,Silver,23,13.2,Gold,3:43,1:35,None,10120,5464,None,15891,7968,Silver,10,6.5
+9,129,2206,2228,22,2188,P,1,1,Support,,Win,9,No,Temple of Anubis,Assault,11:52,0,1,0,4,8,19.68,None,5,11.63,None,1:34,1:31,None,1047,5189,None,9731,6639,Silver,8,6.89
+9,130,2228,2210,-18,2240,2237,1,1,Support,,Loss,-1,No,King's Row,Assault/Escort,20:49,3,1,0,1,60,19.81,Gold,38,11.72,Gold,4:07,1:31,Silver,13474,5209,None,14654,6647,Gold,14,6.89
+9,131,2210,2236,26,2187,2181,1,2,Support,,Win,1,No,Temple of Anubis,Assault,6:24,2,0,0,3,17,22.35,None,9,13.31,Gold,0:10,1:35,None,2997,5483,None,3941,7945,Gold,3,6.5
+9,132,2236,2236,0,2230,2240,1,1,Tank,,Draw,0,No,Hollywood,Assault/Escort,20:33,0,1,0,4,21,19.72,None,9,11.64,None,3:34,1:31,Silver,8143,5192,None,0,6558,None,23,6.94
+9,133,2236,2213,-23,P,2233,2,1,Support,Offense,Loss,-1,No,Numbani,Assault/Escort,14:36,0,4,0,1,16,19.64,Silver,7,11.57,Silver,1:18,1:31,None,8579,5199,Silver,6336,6537,Silver,10,6.94
+9,134,2213,2188,-25,2187,2179,1,1,Tank,,Loss,-2,No,Watchpoint: Gibraltar,Escort,4:46,2,0,1,2,4,19.6,Bronze,4,11.56,Gold,1:31,1:31,Gold,1873,5195,None,0,6516,None,5,6.95
+9,135,2188,2165,-23,2185,2188,3,3,Offense,Tank,Loss,-3,No,Hanamura,Assault,10:43,0,0,2,3,12,19.55,Bronze,5,11.52,None,0:37,1:31,Bronze,4439,5188,None,0,6472,None,9,6.96
+9,136,2165,2194,29,2168,2190,2,2,Support,,Win,1,No,Route 66,Escort,9:04,3,0,1,1,24,22.34,Bronze,13,13.27,Gold,2:19,1:35,Gold,4483,5475,None,9469,7978,Gold,4,6.49
+9,137,2194,2218,24,2172,2173,1,2,Support,,Win,2,No,Dorado,Escort,15:17,2,2,0,1,36,19.62,Gold,18,11.53,Gold,2:54,1:31,Silver,11472,5212,None,9434,6490,Silver,9,6.94
+9,138,2218,2195,-23,2235,2234,1,1,Support,,Loss,-1,No,Ilios,Control,14:27,0,2,1,2,18,19.56,None,14,11.52,Silver,2:28,1:32,Bronze,5703,5201,None,8672,6487,Silver,16,6.98
+9,139,2195,2219,24,2220,2232,1,1,Support,,Win,1,No,Horizon Lunar Colony,Assault,15:53,1,0,0,4,18,19.48,None,10,11.47,None,0:56,1:31,None,4738,5181,None,15893,6525,Gold,13,6.99
+9,140,2219,2244,25,2231,2229,2,2,Support,,Win,2,No,Oasis,Control,10:01,2,0,0,3,14,15.58,None,11,10.04,None,2:08,1:48,Gold,3056,3453,None,7242,8065,Gold,7,8.06
+9,141,2244,2265,21,2245,2234,2,2,Tank,,Win,3,No,Blizzard World,Assault/Escort,14:31,1,1,0,3,28,14.9,None,14,9.49,Silver,5:20,1:51,Gold,6816,4832,None,0,0,None,9,7.22
+9,142,2265,2246,-19,2269,2298,3,2,Support,,Loss,-1,No,Eichenwalde,Assault/Escort,16:08,1,0,2,2,28,22.16,None,16,13.13,Bronze,2:10,1:35,Bronze,5369,6451,None,18109,8006,Gold,9,6.51
+9,143,2246,2221,-25,2218,2215,1,2,Tank,Support,Loss,-2,No,Hollywood,Assault/Escort,14:40,0,2,1,2,14,19.35,None,8,11.39,Silver,2:08,1:32,Bronze,5696,5136,None,7306,6506,Silver,16,7.01
+9,144,2221,2250,29,2223,2226,3,2,Support,,Win,1,No,Eichenwalde,Assault/Escort,11:49,2,2,0,1,31,22.2,Gold,19,13.16,Gold,2:36,1:35,Silver,6140,5449,None,12139,8031,Silver,5,6.49
+9,145,2250,2221,-29,P,2251,4,3,Support,,Loss,-1,No,Volskaya Industries,Assault,8:35,1,0,1,3,1,19.31,None,0,11.36,None,0:31,1:32,Bronze,1408,5120,None,5720,6535,Gold,9,7.01
+9,146,2221,2195,-26,P,P,2,2,Tank,,Loss,-2,No,Junkertown,Escort,12:10,0,1,3,1,10,19.23,Bronze,4,11.31,Bronze,1:51,1:32,Silver,5795,5117,Bronze,1552,6497,None,14,7.04
+9,147,2195,2216,21,2185,2185,1,2,Support,,Win,1,No,Ilios,Control,7:34,1,1,1,2,14,22.15,None,11,13.15,Gold,1:13,1:35,Bronze,3614,5442,None,4456,8014,Silver,4,6.49
+9,148,2216,2238,22,2185,2185,1,2,Defense,Support,Win,2,No,Hollywood,Assault/Escort,19:46,0,0,1,4,34,19.21,None,16,11.29,None,3:31,1:32,Bronze,10261,5118,None,6498,6460,None,14,7.03
+9,149,2238,2260,22,2227,2222,4,4,Defense,Support,Win,3,No,Volskaya Industries,Assault,18:03,0,1,1,3,32,19.2,None,22,11.3,None,2:49,1:33,Bronze,9602,5122,None,8310,6442,Silver,15,7.05
+9,150,2260,2288,28,2249,2240,2,2,Support,,Win,4,No,Nepal,Control,14:19,2,1,1,1,34,19.24,Bronze,25,11.35,Gold,2:20,1:33,Gold,8507,5130,None,13294,6467,Silver,9,7.05
+9,151,2288,2263,-25,2303,2301,1,1,Tank,Support,Loss,-1,No,Route 66,Escort,23:15,1,0,1,3,20,19.1,None,17,11.3,Bronze,4:59,1:33,Gold,8686,5112,None,1811,6392,None,21,7.07
+9,152,2263,2289,26,2242,2244,2,2,Support,,Win,1,No,Blizzard World,Assault/Escort,13:26,3,0,0,2,26,22.15,None,19,13.21,Gold,2:33,1:35,Gold,5839,5434,None,11590,8047,Gold,6,6.46
+9,153,2289,2272,-17,2275,2315,3,2,Support,,Loss,-1,No,Temple of Anubis,Assault,14:39,3,0,2,0,43,22.25,Gold,22,13.24,Gold,1:29,1:35,Bronze,9964,5453,Bronze,15099,8079,Gold,10,6.47
+9,154,2272,2244,-28,2245,2241,1,1,Support,,Loss,-2,No,King's Row,Assault/Escort,13:13,1,0,2,2,16,19.14,None,9,11.32,Bronze,2:20,1:33,Bronze,5717,5116,None,10369,6454,Gold,11,7.06
+9,155,2244,2223,-21,2249,2249,1,1,Support,Defense,Loss,-3,No,Numbani,Assault/Escort,15:34,2,1,2,0,26,19.12,Gold,15,11.31,Gold,2:27,1:33,Bronze,8564,5120,Silver,4839,6426,Bronze,12,7.07
+9,156,2223,2245,22,2236,2245,3,2,Tank,,Win,1,No,Hollywood,Assault/Escort,12:33,1,1,1,2,32,19.17,None,24,11.36,Silver,4:51,1:34,Gold,6867,5123,None,2482,6396,Bronze,4,7.04
+9,157,2245,2223,-22,2249,2251,1,1,Support,,Loss,-1,No,Lijiang Tower,Control,9:40,0,2,1,2,15,22.13,Silver,6,13.15,None,1:22,1:35,None,5642,5461,Bronze,7537,8069,Silver,10,6.52
+9,158,2223,2203,-20,2235,2246,1,1,Tank,Support,Loss,-2,No,Volskaya Industries,Assault,7:44,4,1,0,0,11,19.13,Silver,5,11.32,Gold,0:27,1:34,Gold,4415,5130,Gold,3818,6397,Gold,7,7.07
+9,159,2203,2182,-21,2171,2179,2,2,Support,Tank,Loss,-3,No,Oasis,Control,9:30,1,3,1,0,10,19.09,Bronze,5,11.29,Silver,2:41,1:34,Gold,6370,5139,Silver,3143,6382,Silver,8,7.08
+9,160,2182,2214,32,2169,2173,1,1,Support,,Win,1,No,Horizon Lunar Colony,Assault,5:19,3,1,1,0,20,22.16,Gold,17,13.19,Gold,0:38,1:35,Silver,4374,5481,Bronze,3442,8067,Gold,1,6.51
+9,161,2214,2238,24,2190,2184,1,2,Tank,,Win,2,No,Junkertown,Escort,11:52,2,1,0,2,29,15.13,Silver,23,10.07,Gold,4:03,1:55,Gold,7553,5052,None,0,0,None,8,7.41
+9,162,2238,2214,-24,2218,2236,2,2,Tank,,Loss,-1,No,Ilios,Control,13:33,1,0,1,3,14,14.84,None,8,9.81,Bronze,2:04,1:54,Gold,6634,5049,None,0,0,None,13,7.56
+9,163,2214,2240,26,2182,2181,1,1,Support,,Win,1,No,Volskaya Industries,Assault,11:16,2,0,0,3,31,19.17,None,19,11.39,Gold,0:47,1:35,None,4440,5148,None,6795,6297,Gold,4,7.06
+9,164,2240,2266,26,2246,2233,2,3,Support,,Win,2,No,King's Row,Assault/Escort,15:20,0,4,1,0,39,19.22,Silver,25,11.43,Silver,2:15,1:34,Silver,10568,5162,Bronze,14117,6321,Silver,8,7.04
+9,165,2266,2287,21,2253,2249,3,3,Defense,Tank,Win,3,Enemy team,Eichenwalde,Assault/Escort,16:19,0,1,2,2,36,19.25,Bronze,12,11.4,None,2:14,1:34,None,11929,5182,Silver,448,6271,Bronze,12,7.05
+9,166,2287,2262,-25,2293,2263,4,5,Support,,Loss,-1,No,Lijiang Tower,Control,10:11,1,2,0,2,14,22.17,None,10,13.23,Silver,1:11,1:34,Silver,4223,5481,None,10163,8089,Gold,10,6.5
+9,167,2262,2279,17,2215,2231,3,3,Defense,Tank,Win,1,No,Junkertown,Escort,14:42,0,0,0,5,23,19.2,None,9,11.36,None,1:05,1:34,None,7479,5176,None,0,6244,None,12,7.07
+9,168,2279,2302,23,2339,2352,1,1,Support,,Win,2,No,Volskaya Industries,Assault,12:44,1,1,0,3,18,22.09,None,9,13.17,Silver,0:30,1:33,None,4099,5459,None,12086,8104,Gold,10,6.51
+9,169,2302,2323,21,2300,2326,3,2,Support,,Win,3,No,Volskaya Industries,Assault,13:02,1,0,0,4,17,19.13,None,6,11.29,None,0:21,1:33,None,5081,5156,None,10763,6279,Gold,6,7.06
+9,170,2323,2354,31,2302,2301,1,1,Support,,Win,4,No,Route 66,Escort,7:26,1,1,0,3,1,0.57,None,0,0.14,None,0:42,1:04,Silver,180,85.29,None,12189,9690,Gold,0,5.72
+9,171,2354,2329,-25,2349,2352,1,1,Support,Defense,Loss,-1,My team,Hollywood,Assault/Escort,13:19,2,3,0,0,8,18.97,Silver,4,11.19,Gold,0:15,1:32,Silver,6265,5135,Silver,10709,6329,Gold,8,7.03
+9,172,2329,2307,-22,2292,2302,2,2,Support,,Loss,-2,No,Volskaya Industries,Assault,10:39,2,1,0,2,9,18.92,None,6,11.16,Gold,1:03,1:32,Silver,3035,5123,None,8095,6336,Gold,11,7.05
+9,173,2307,2285,-22,2233,2230,1,1,Tank,Support,Loss,-3,No,Watchpoint: Gibraltar,Escort,14:01,2,2,1,0,26,18.92,Gold,15,11.16,Gold,2:12,1:32,Silver,7325,5124,Bronze,7255,6328,Silver,12,7.06
+9,174,2285,2310,25,2233,2212,1,1,Support,,Win,1,No,Horizon Lunar Colony,Assault,17:14,2,0,1,2,22,18.87,None,10,11.12,Bronze,1:14,1:32,Gold,5770,5111,None,16135,6356,Gold,14,7.07
+9,175,2310,2289,-21,P,2316,5,4,Tank,Defense,Loss,-1,No,Eichenwalde,Assault/Escort,9:36,4,0,0,1,12,18.84,Gold,4,11.08,Gold,0:34,1:31,Gold,7334,5123,Gold,0,6327,None,8,7.08
+9,176,2289,2261,-28,2286,2286,2,2,Tank,,Loss,-2,No,Route 66,Escort,6:16,0,1,0,4,7,18.82,None,5,11.07,Silver,1:10,1:32,None,2904,5121,None,1164,6313,None,6,7.08
+9,177,2261,2237,-24,2244,2249,1,2,Support,Tank,Loss,-3,My team,Numbani,Assault/Escort,11:37,1,1,2,1,10,18.76,Bronze,5,11.04,None,1:02,1:31,Silver,3857,5112,Bronze,4517,6300,Gold,9,7.09
+9,178,2237,2258,21,2240,2246,2,2,Tank,,Win,1,No,Oasis,Control,15:10,2,0,1,2,29,18.77,Bronze,20,11.05,Gold,3:49,1:32,Gold,7153,5109,None,0,6255,None,9,7.08
+9,179,2258,2277,19,2309,2263,1,2,Defense,,Win,2,No,Horizon Lunar Colony,Assault,15:29,0,0,1,4,25,12,None,12,11.03,None,1:00,1:31,None,10434,5123,Bronze,0,6210,None,10,7.08
+9,180,2277,2254,-23,2299,2277,3,3,Tank,,Loss,-1,No,Lijiang Tower,Control,11:05,2,1,2,0,15,18.73,Silver,10,11.02,Gold,2:19,1:32,Gold,6709,5129,Bronze,2477,6190,Bronze,7,7.07
+9,181,2254,2235,-19,2248,2246,1,2,Tank,Support,Loss,-2,No,Eichenwalde,Assault/Escort,13:12,1,2,2,0,30,18.76,Bronze,20,11.05,Gold,4:13,1:32,Silver,7681,5133,Bronze,5926,6180,Silver,8,7.07
+9,182,2235,2214,-21,2246,2236,2,1,Support,,Loss,-3,No,Hanamura,Assault,6:48,2,2,0,1,6,18.73,Gold,2,11.03,Silver,0:36,1:32,Silver,3028,5131,None,6575,6192,Gold,7,7.08
+9,183,2214,2240,26,2186,2179,1,1,Support,,Win,1,No,Dorado,Escort,12:28,2,1,0,2,21,18.71,None,16,11.04,Gold,2:28,1:32,Silver,5080,5125,None,8305,6194,Gold,8,7.08
+9,184,2240,2266,26,2227,2228,3,2,Support,,Win,2,No,Hollywood,Assault/Escort,14:08,2,1,1,1,36,22.09,Bronze,26,13.19,Gold,2:59,1:34,Silver,7123,5460,None,11587,8121,Gold,8,6.48
+9,185,2266,2290,24,2244,2237,1,1,Tank,,Win,3,No,Horizon Lunar Colony,Assault,11:13,1,1,1,2,20,15.22,None,10,9.79,Silver,1:14,1:47,Gold,5020,4983,Bronze,0,0,None,3,7.32
+9,186,2290,2313,23,2294,2294,1,2,Tank,Support,Win,4,No,Temple of Anubis,Assault,19:38,2,0,1,2,27,18.72,None,13,11.04,Gold,2:16,1:32,Gold,8058,5114,None,1949,6131,Bronze,12,7.04
+9,187,2313,2289,-24,2304,2299,1,1,Tank,,Loss,-1,My team,Nepal,Control,7:06,0,2,2,1,6,14.98,Bronze,3,9.57,Silver,0:20,1:44,Bronze,4135,5010,Silver,0,0,None,9,7.45
+9,188,2289,2267,-22,2248,2252,1,1,Support,Tank,Loss,-2,No,Temple of Anubis,Assault,17:48,1,1,0,3,23,18.64,None,13,10.99,None,2:17,1:32,Gold,6275,5105,None,9183,6106,Silver,8,7.04
+9,189,2267,2242,-25,2189,2186,1,1,Tank,,Loss,-3,No,Volskaya Industries,Assault,12:31,2,2,0,1,17,18.62,Silver,11,10.98,Gold,1:26,1:32,Gold,5890,5103,Silver,0,6072,None,8,7.03
+9,190,2242,2267,25,2220,2228,2,3,Support,,Win,1,No,Ilios,Control,9:30,1,1,0,3,20,15.36,None,12,10,None,2:37,1:50,Silver,4611,3543,None,8568,8221,Gold,3,8.06
+9,191,2267,2249,-18,2241,2239,1,2,Support,,Loss,-1,No,Blizzard World,Assault/Escort,13:30,3,1,0,1,20,18.61,Silver,11,10.97,Gold,2:20,1:32,Gold,7236,5105,None,13068,6107,Gold,10,7.02
+9,192,2249,2266,17,2236,2244,2,2,Defense,Offense,Win,1,No,Watchpoint: Gibraltar,Escort,16:27,0,2,1,2,29,18.6,Bronze,8,10.92,Silver,1:28,1:32,None,11960,5120,Silver,0,6062,None,11,7.02
+9,193,2266,2289,23,2226,2235,2,1,Support,,Win,2,No,Horizon Lunar Colony,Assault,9:59,0,1,2,2,24,18.62,None,11,10.93,Bronze,1:07,1:32,Bronze,5111,5121,None,7567,6069,Silver,6,7.02
+9,194,2289,2268,-21,2285,2299,3,3,Support,,Loss,-1,No,Numbani,Assault/Escort,14:48,2,0,1,2,19,18.59,None,13,10.91,Gold,3:17,1:32,Bronze,5208,5111,None,15578,6099,Gold,9,7.01
+9,195,2268,2298,30,2243,2237,2,2,Support,,Win,1,No,Watchpoint: Gibraltar,Escort,15:58,3,1,0,1,52,22.14,Silver,37,13.24,Gold,3:38,1:34,Gold,10820,5474,None,16810,8162,Gold,8,6.48
+9,196,2298,2276,-22,2297,2283,2,2,Support,,Loss,-1,My team,Volskaya Industries,Assault,12:14,1,3,0,1,18,18.67,Silver,11,10.99,Gold,1:01,1:32,Silver,4759,5116,None,7513,6130,Silver,8,6.99
+9,197,2276,2249,-27,2283,2290,2,2,Tank,,Loss,-2,No,Nepal,Control,8:37,0,0,0,5,4,18.61,None,1,10.95,None,1:02,1:32,None,3631,5113,None,0,6108,None,12,7.02
+9,198,2249,2226,-23,2226,2237,3,3,Tank,,Loss,-3,My team,King's Row,Assault/Escort,11:39,1,0,1,3,7,18.55,None,5,10.92,Bronze,3:25,1:32,Gold,4286,5106,None,0,6078,None,12,7.04
+9,199,2226,2249,23,2226,P,2,3,Tank,,Win,1,Enemy team,Junkertown,Escort,16:58,2,0,2,1,30,18.55,Bronze,22,10.93,Gold,5:04,1:33,Gold,7156,5100,None,2170,6043,Bronze,10,7.03
+9,200,2249,2224,-25,2237,2242,2,2,Tank,,Loss,-1,No,Watchpoint: Gibraltar,Escort,9:50,0,1,0,4,9,11.76,None,3,5.73,None,1:34,1:25,Silver,5199,4528,None,0,0,None,5,7.84
+9,201,2224,2245,21,2239,2254,3,2,Support,Tank,Win,1,No,Blizzard World,Assault/Escort,8:28,0,1,2,2,20,18.53,Bronze,3,10.88,Bronze,0:13,1:33,None,4154,5100,None,3711,6012,Silver,5,7.02
+9,202,2245,2267,22,2249,2238,2,2,Support,,Win,2,No,Hollywood,Assault/Escort,14:01,1,1,0,3,12,18.47,None,8,10.85,None,2:22,1:33,Gold,2106,5079,None,9799,6018,Silver,12,7.03
+9,203,2267,2293,26,2234,2234,2,2,Support,,Win,3,No,Oasis,Control,15:12,1,1,1,2,26,18.46,None,19,10.86,Bronze,2:01,1:33,Silver,6581,5075,None,11212,6028,Gold,12,7.03
+9,204,2293,2316,23,2270,2259,4,4,Support,,Win,4,No,Lijiang Tower,Control,11:33,1,0,0,4,10,18.42,None,6,10.83,None,1:32,1:33,None,3141,5065,None,8983,6037,Gold,10,7.04
+9,205,2316,2294,-22,2257,2260,2,1,Support,Tank,Loss,-1,No,Volskaya Industries,Assault,16:30,1,0,2,2,24,18.4,Bronze,10,10.8,None,1:33,1:33,Bronze,9245,5069,None,11241,6044,Gold,15,7.06
+9,206,2294,2316,22,2304,2281,1,1,Tank,,Win,1,Enemy team,Junkertown,Escort,15:29,0,1,1,3,27,18.39,None,13,10.79,Bronze,3:27,1:33,Silver,6952,5066,None,0,6005,None,13,7.07
+9,207,2316,2316,0,2307,2309,2,1,Support,,Draw,0,No,King's Row,Assault/Escort,20:52,4,0,0,1,44,22.03,Gold,25,13.17,Gold,3:47,1:34,Gold,11527,5466,None,20387,8176,Gold,17,6.56
+9,208,2316,2295,-21,2312,2299,3,3,Support,,Loss,-1,No,Dorado,Escort,10:27,1,1,1,2,8,18.37,None,3,10.77,Silver,1:36,1:33,Bronze,2227,5058,None,8961,6049,Gold,7,7.07
+9,209,2295,2320,25,2363,2362,2,2,Tank,,Win,1,No,Blizzard World,Assault/Escort,4:45,0,1,0,4,12,18.39,None,8,10.78,None,0:13,1:33,None,3263,5062,Silver,0,6038,None,3,7.07
+9,210,2320,2301,-19,2287,2284,1,1,Support,,Loss,-1,No,Nepal,Control,10:31,1,0,1,3,2,18.32,None,1,10.74,None,1:06,1:33,Bronze,1588,5048,None,13417,6067,Gold,7,7.07
+9,211,2301,2275,-26,2291,2298,3,3,Tank,,Loss,-2,No,Numbani,Assault/Escort,16:45,0,0,0,5,21,18.28,None,16,10.73,None,2:13,1:33,None,6595,5040,None,0,6027,None,16,7.09
+9,212,2275,2256,-19,2256,2260,4,3,Support,,Loss,-3,No,Oasis,Control,14:40,3,1,0,1,34,22,Gold,21,13.15,Gold,2:44,1:34,Silver,9309,5469,None,17655,8221,Gold,7,6.55
+9,213,2256,2256,0,2184,2182,3,2,Tank,Support,Draw,0,No,Horizon Lunar Colony,Assault,17:22,1,1,1,2,21,18.27,None,13,10.73,Silver,1:51,1:33,Gold,7064,5043,None,5085,6042,Bronze,14,7.09
+9,214,2256,2282,26,2232,2232,1,1,Support,,Win,1,No,Eichenwalde,Assault/Escort,8:27,1,0,2,2,11,18.26,None,4,10.71,Bronze,0:16,1:32,Bronze,2629,6037,None,9765,6061,Gold,3,7.07
+9,215,2282,2308,26,2300,2291,1,1,Support,,Win,2,No,Ilios,Control,9:44,1,1,0,3,8,14.35,None,6,9.36,None,1:50,1:52,Silver,3666,3526,None,10154,8529,Gold,5,7.8
+9,216,2308,2330,22,2304,2310,1,1,Support,,Win,3,No,Route 66,Escort,23:04,1,0,0,4,21,18.14,None,12,10.65,None,4:38,1:33,None,4489,5005,None,21158,6106,Gold,13,7.05
+9,217,2330,2304,-26,2280,2293,2,1,Support,,Loss,-1,No,Junkertown,Escort,9:03,1,2,1,1,11,21.98,Bronze,8,13.14,Silver,1:38,1:34,Gold,5632,5473,None,6311,8231,Silver,5,6.51
+9,218,2304,2286,-18,2309,2304,1,1,Tank,,Loss,-2,No,Watchpoint: Gibraltar,Escort,5:24,1,3,0,1,6,15.26,Silver,4,9.53,Gold,1:09,1:39,Silver,3111,5026,Silver,0,0,None,5,7.37
+9,219,2286,2311,25,2295,2292,2,2,Support,,Win,1,No,Hanamura,Assault,15:16,1,1,2,1,24,18.09,Bronze,11,10.61,Silver,0:55,1:32,Bronze,7140,5009,None,14760,6117,Gold,7,7.04
+9,220,2311,2331,20,2320,2308,1,2,Support,,Win,2,No,Numbani,Assault/Escort,11:51,1,1,0,3,18,21.91,None,9,13.07,None,1:45,1:34,Silver,4375,5460,None,9571,8238,Gold,6,6.48
+9,221,2331,2357,26,2294,P,2,2,Support,,Win,3,No,Hollywood,Assault/Escort,19:36,0,2,1,2,35,18.08,None,25,10.62,Bronze,5:59,1:33,Silver,8323,4998,None,17194,6147,Silver,17,7.04
+9,222,2357,2377,20,P,2354,2,2,Support,,Win,4,No,Blizzard World,Assault/Escort,13:32,0,1,0,4,11,18.03,None,6,10.59,None,1:58,1:33,None,1741,4980,None,12336,6163,Silver,10,7.05
+9,223,2377,2355,-22,2369,2359,2,2,Support,,Loss,-1,No,Temple of Anubis,Assault,12:27,1,2,0,2,13,17.99,None,9,10.57,Silver,0:58,1:33,Silver,4425,4973,None,11397,6177,Gold,10,7.05
+9,224,2355,2333,-22,2348,2340,3,3,Support,,Loss,-2,No,Hanamura,Assault,9:44,1,1,0,3,8,17.96,None,6,10.56,Silver,0:30,1:33,None,2915,4966,None,9972,6192,Gold,7,7.05
+9,225,2333,2311,-22,2274,2295,3,3,Support,,Loss,-3,No,Numbani,Assault/Escort,10:52,2,1,1,1,11,17.93,Bronze,5,10.53,Gold,0:35,1:32,Silver,2768,4957,None,9470,6203,Gold,10,7.06
+9,226,2311,2338,27,2296,2297,1,2,Support,,Win,1,No,Lijiang Tower,Control,8:21,1,1,0,3,16,17.93,None,8,10.53,None,1:08,1:32,Silver,3211,4954,None,10801,6224,Gold,5,7.06
+9,227,2338,2363,25,2357,2339,1,1,Support,,Win,2,No,Hollywood,Assault/Escort,4:47,1,0,0,4,5,17.92,None,3,10.52,None,0:10,1:32,None,343,4946,None,6871,6239,Gold,3,7.06
+9,228,2363,2385,22,2348,2331,1,2,Tank,Support,Win,3,No,Oasis,Control,12:25,1,1,0,3,14,17.89,None,11,10.52,None,2:04,1:32,Gold,5174,4943,None,6346,6234,Silver,7,7.05
+9,229,2385,2405,20,2338,2365,2,2,Defense,Tank,Win,4,No,Horizon Lunar Colony,Assault,8:14,0,2,2,1,20,17.91,Bronze,11,10.53,Silver,0:36,1:32,Silver,5542,4949,Bronze,0,6216,None,4,7.05
+9,230,2405,2427,22,2402,2404,2,2,Tank,,Win,5,No,King's Row,Assault/Escort,22:18,0,1,0,4,29,17.88,None,24,10.53,None,7:18,1:33,Silver,9983,4946,None,0,6166,None,18,7.06
+9,231,2427,2408,-19,2402,2396,2,2,Tank,,Loss,-1,No,Ilios,Control,6:43,2,0,1,2,3,14.97,Bronze,0,9.39,None,1:09,1:38,Gold,4031,5037,Gold,0,0,None,7,7.4
+9,232,2408,2436,28,2422,2418,2,2,Support,,Win,1,No,Blizzard World,Assault/Escort,16:53,2,2,0,1,41,21.83,Silver,23,13.05,Gold,3:15,1:34,Silver,9770,5439,None,20723,8330,Gold,9,6.48
+9,233,2436,2465,29,2406,2401,1,1,Support,,Win,2,No,Horizon Lunar Colony,Assault,11:39,2,1,1,1,52,22.01,Gold,28,13.13,Gold,1:18,1:34,None,8266,5452,Bronze,10608,8336,Silver,3,6.45
+9,234,2465,2493,28,2458,2463,2,2,Support,,Win,3,No,Temple of Anubis,Assault,11:01,2,1,1,1,29,22.04,Gold,13,13.13,Silver,0:48,1:34,Bronze,6141,5453,None,11012,8349,Gold,3,6.43
+9,235,2493,2473,-20,2472,2466,2,2,Support,,Loss,-1,No,Dorado,Escort,14:20,1,3,0,1,25,22,Silver,15,13.1,Silver,2:46,1:34,Silver,8436,5457,None,16955,8380,Gold,12,6.45
+9,236,2473,2502,29,2467,2478,2,2,Support,,Win,1,No,Junkertown,Escort,14:16,4,0,0,1,43,22.07,Gold,35,13.2,Gold,4:23,1:35,Gold,7089,5453,None,6514,8346,Gold,10,6.45
+9,237,2502,2479,-23,2480,2481,1,1,Support,,Loss,-1,No,Watchpoint: Gibraltar,Escort,13:17,1,1,0,3,15,18.06,None,5,10.63,Silver,1:00,1:33,None,4423,4963,None,14137,6258,Gold,13,7.04
+9,238,2479,2455,-24,2460,2454,3,3,Tank,,Loss,-2,No,Eichenwalde,Assault/Escort,19:05,1,1,1,2,29,18.04,None,18,10.62,Silver,6:32,1:34,Gold,9897,4966,None,778,6220,Bronze,12,7.03
+9,239,2455,2432,-23,2477,2470,2,2,Support,,Loss,-3,No,Watchpoint: Gibraltar,Escort,10:56,2,1,0,2,14,18.02,Silver,10,10.61,Gold,0:43,1:34,None,3500,4959,None,11199,6235,Gold,12,7.05
+9,240,2432,2408,-24,2413,2415,3,3,Support,,Loss,-4,No,Oasis,Control,11:04,1,0,0,4,9,17.98,None,5,10.59,None,1:57,1:34,None,1601,4945,None,9167,6244,Gold,10,7.06
+9,241,2408,2435,27,2391,2404,2,2,Support,,Win,1,No,Ilios,Control,15:03,1,1,0,3,21,17.96,None,18,10.6,None,3:05,1:34,Silver,4058,4934,None,14266,6261,Gold,9,7.05
+9,242,2435,2412,-23,2415,2397,2,2,Support,,Loss,-1,No,Oasis,Control,7:42,1,1,0,3,8,17.95,None,5,10.59,None,1:09,1:34,Silver,3460,4933,None,7316,6270,Gold,9,7.07
+9,243,2412,2388,-24,2394,2403,2,2,Support,,Loss,-2,No,Watchpoint: Gibraltar,Escort,18:45,1,0,0,4,23,17.91,None,9,10.55,None,1:46,1:34,None,3785,4914,None,19910,6298,Gold,15,7.07
+9,244,2388,2369,-19,2372,2375,1,1,Support,,Loss,-3,No,Nepal,Control,6:31,1,1,2,1,7,13.82,Silver,3,8.95,Bronze,0:26,1:44,Bronze,3008,3420,None,7691,8543,Gold,5,7.83
+9,245,2369,2341,-28,2357,2362,1,1,Support,,Loss,-4,No,Temple of Anubis,Assault,8:00,0,2,0,3,2,17.85,None,0,10.51,None,0:32,1:34,Silver,1215,4905,None,5223,6312,Silver,9,7.08
+9,246,2341,2363,22,2354,2345,2,3,Tank,,Win,1,No,Dorado,Escort,15:54,0,2,0,3,28,17.85,None,13,10.5,Silver,3:22,1:34,Silver,10488,4914,None,0,6277,None,8,7.07
+9,247,2363,2383,20,2356,2344,2,2,Tank,,Win,2,No,Hollywood,Assault/Escort,20:57,1,0,0,4,23,17.8,None,11,10.46,None,5:22,1:34,Gold,8585,4909,None,0,6234,None,22,7.1
+9,248,2383,2402,19,2362,2342,2,2,Tank,,Win,3,No,King's Row,Assault/Escort,16:29,1,0,1,3,24,17.79,None,16,10.46,Bronze,3:41,1:34,Gold,9344,4914,None,9,6200,None,10,7.09
+9,249,2402,2421,19,2404,2414,3,3,Defense,Tank,Win,4,No,Horizon Lunar Colony,Assault,17:55,0,1,0,4,16,17.74,None,10,10.43,None,0:39,1:34,None,12448,4927,Silver,0,6165,None,11,7.09
+9,250,2421,2441,20,2419,2419,1,1,Support,,Win,5,No,Hanamura,Assault,12:53,1,0,0,4,5,17.68,None,5,10.41,None,1:07,1:34,None,975,4910,None,11140,6175,Gold,11,7.1
+9,251,2441,2413,-28,2426,2418,2,2,Tank,,Loss,-1,No,Watchpoint: Gibraltar,Escort,6:34,0,0,1,4,2,17.65,None,0,10.38,None,0:38,1:34,Bronze,1874,4905,None,8,6162,None,8,7.11
+9,252,2413,2389,-24,2391,2381,2,2,Support,,Loss,-2,No,Hollywood,Assault/Escort,17:00,0,1,0,4,24,17.63,None,14,10.37,None,3:08,1:34,None,8698,4907,None,12119,6168,Silver,16,7.12
+9,253,2389,2368,-21,2353,P,1,1,Support,,Loss,-3,No,Lijiang Tower,Control,8:56,0,3,1,1,15,17.63,Silver,7,10.37,Silver,1:22,1:34,Bronze,2983,4903,None,7373,6175,Silver,11,7.14
+9,254,2368,2393,25,2340,2346,2,3,Support,,Win,1,No,Route 66,Escort,14:47,2,2,0,1,38,22,Silver,23,13.14,Gold,2:42,1:34,Gold,7355,5420,None,13104,8438,Silver,11,6.54
+9,255,2393,2421,28,2408,2408,1,1,Support,,Win,2,No,Horizon Lunar Colony,Assault,13:16,2,0,0,3,4,17.61,None,3,10.36,None,1:07,1:34,Gold,738,4884,None,16052,6214,Gold,6,7.13
+9,256,2421,2396,-25,2403,2417,2,2,Offense,Support,Loss,-1,No,King's Row,Assault/Escort,9:13,0,1,0,4,8,17.58,None,3,10.33,None,0:26,1:34,None,2694,4879,None,1877,6201,Silver,10,7.14
+9,257,2396,2368,-28,2416,2400,2,2,Offense,,Loss,-2,No,Ilios,Control,13:53,0,0,0,5,21,17.57,None,7,10.31,None,0:36,1:33,None,7300,4881,None,0,6174,None,14,7.15
+9,258,2368,2343,-25,2362,2363,1,1,Offense,Defense,Loss,-3,No,Volskaya Industries,Assault,9:01,1,0,3,1,8,17.55,Bronze,2,10.29,Bronze,0:23,1:33,Gold,4386,4881,Bronze,0,6156,None,9,7.16
+9,259,2343,2369,26,2339,2309,3,4,Support,,Win,1,No,Hanamura,Assault,11:29,1,1,2,1,31,22.01,Bronze,9,13.09,Silver,0:33,1:33,Bronze,5911,5415,None,8833,8435,Gold,3,6.53
+9,260,2369,2353,-16,P,2337,5,4,Support,,Loss,-1,No,Route 66,Escort,5:50,2,1,0,2,15,22.02,Gold,7,13.09,Gold,0:57,1:33,None,2995,5414,None,4925,8434,Silver,4,6.53
+9,261,2353,2383,30,2365,2356,2,2,Support,,Win,1,No,Oasis,Control,12:33,3,1,1,0,40,22.1,Gold,24,13.13,Gold,2:06,1:34,Gold,9164,5429,Bronze,10216,8434,Silver,6,6.52
+9,262,2383,2407,24,2334,2357,2,2,Support,Tank,Win,2,No,Watchpoint: Gibraltar,Escort,21:11,1,1,1,2,3,17.63,None,23,10.32,Gold,4:06,1:33,Silver,8454,4887,None,6449,6154,Bronze,14,7.13
+9,263,2407,2429,22,2455,2454,1,1,Support,,Win,3,No,King's Row,Assault/Escort,15:32,0,2,1,2,22,22.03,None,14,13.1,Bronze,2:07,1:33,Silver,6613,5419,None,14108,8440,Silver,12,6.53
+9,264,2429,2450,21,2411,2416,2,2,Offense,Defense,Win,4,No,Lijiang Tower,Control,10:48,0,1,0,4,23,17.63,Silver,10,10.31,None,0:45,1:33,None,7855,4892,None,0,6145,None,8,7.14
+9,265,2450,2427,-23,2421,2436,2,2,Defense,Tank,Loss,-1,No,Watchpoint: Gibraltar,Escort,11:42,2,0,2,1,12,17.6,Bronze,7,10.3,Gold,2:23,1:33,Gold,6040,4893,Bronze,0,6125,None,14,7.15
+9,266,2427,2404,-23,2413,2409,1,1,Support,,Loss,-2,No,Horizon Lunar Colony,Assault,13:16,1,1,2,1,16,21.96,None,12,13.07,Bronze,0:51,1:33,Bronze,7678,5422,Silver,10899,8439,Gold,10,6.54
+9,267,2404,2383,-21,2413,2404,1,1,Support,,Loss,-3,My team,Hollywood,Assault/Escort,18:46,2,2,1,0,35,21.93,Silver,21,13.05,Gold,5:13,1:34,Silver,9871,5422,Bronze,14750,8435,Gold,14,6.55
+9,268,2383,2408,25,2367,2358,2,2,Support,,Win,1,No,Junkertown,Escort,11:45,2,2,1,0,26,21.93,Silver,20,13.08,Gold,2:38,1:34,Silver,6940,5425,Bronze,6075,8413,Gold,8,6.55
+9,269,2408,2435,27,2432,2446,1,5,Tank,Support,Win,2,No,Nepal,Control,13:52,0,2,1,2,27,17.62,None,16,10.33,Bronze,2:02,1:33,Silver,6140,4902,None,7131,6138,Silver,11,7.16
+9,270,2435,2411,-24,2403,2410,3,4,Tank,,Loss,-1,No,Route 66,Escort,15:19,1,1,1,2,14,17.58,None,7,10.3,Silver,3:01,1:33,Gold,6689,4899,Bronze,0,6109,None,13,7.17
+9,271,2411,2432,21,2365,2377,2,3,Offense,Defense,Win,1,No,Numbani,Assault/Escort,18:04,0,1,0,4,34,17.58,None,17,10.3,None,2:00,1:33,None,16159,4922,Silver,0,6075,None,13,7.17
+9,272,2432,2409,-23,2378,2362,3,4,Defense,Offense,Loss,-1,No,Route 66,Escort,16:55,2,1,0,2,42,17.62,Gold,28,10.33,Gold,1:35,1:33,None,16860,4948,Silver,361,6045,None,16,7.18
+9,273,2409,2388,-21,2413,2414,1,1,Support,,Loss,-2,No,Ilios,Control,13:45,2,0,1,2,23,17.62,Bronze,20,10.35,Gold,2:18,1:33,None,6496,4947,None,12331,6058,Gold,12,7.19
+9,274,2388,2366,-22,2372,2376,2,2,Defense,Support,Loss,-3,No,Blizzard World,Assault/Escort,13:01,0,1,0,4,14,17.59,None,9,10.34,None,2:15,1:33,None,5905,4946,None,5885,6052,Silver,15,7.2
+9,275,2366,2392,26,2326,2327,1,1,Support,,Win,1,No,Hollywood,Assault/Escort,12:04,0,2,1,2,33,17.63,None,22,10.36,Bronze,3:56,1:34,Silver,6149,4947,None,10199,6061,Silver,7,7.2
+9,276,2392,2365,-27,2368,2361,1,1,Tank,Offense,Loss,-1,No,Eichenwalde,Assault/Escort,14:34,0,1,2,2,14,17.59,Bronze,8,10.34,Silver,1:09,1:33,None,6094,4943,Bronze,0,6035,None,16,7.22
+9,277,2365,2345,-20,2400,2408,3,2,Support,,Loss,-2,No,Oasis,Control,8:10,2,1,0,2,7,17.57,None,4,10.33,Silver,1:03,1:33,Gold,2256,4938,None,6578,6040,Gold,8,7.22
+9,278,2345,2366,21,2341,2340,2,3,Support,,Win,1,No,Temple of Anubis,Assault,12:37,1,1,0,3,17,13.67,None,13,8.93,None,2:32,1:44,Gold,3742,3336,None,8578,8436,Silver,6,7.85
+9,279,2366,2345,-21,2349,2356,3,3,Support,,Loss,-1,No,Route 66,Escort,17:42,2,1,1,1,34,17.57,Bronze,24,10.35,Gold,3:43,1:34,Silver,7088,4926,None,15757,6058,Gold,11,7.21
+9,280,2345,2370,25,2341,2346,2,2,Support,,Win,1,No,King's Row,Assault/Escort,14:43,2,0,0,3,3,17.5,None,1,10.31,None,2:46,1:34,Gold,1084,4908,None,19599,6090,Gold,7,7.2
+9,281,2370,2347,-23,2357,2357,1,1,Support,,Loss,-1,No,Oasis,Control,7:12,1,1,1,2,6,13.56,None,3,8.83,Silver,0:42,1:43,Bronze,2228,3333,None,4479,8393,Gold,9,7.95
+9,282,2347,2325,-22,2347,2323,3,3,Tank,Support,Loss,-2,No,Eichenwalde,Assault/Escort,10:32,1,1,1,2,17,17.48,None,11,10.3,Bronze,3:29,1:34,Gold,4979,4904,None,2408,6079,Silver,12,7.22
+9,283,2325,2343,18,2315,2310,2,3,Tank,,Win,1,No,Hanamura,Assault,11:08,0,1,1,3,16,11.33,None,9,6.05,None,1:32,2:13,Silver,6536,4686,Bronze,0,0,None,7,9.41
+9,284,2343,2366,23,2367,2365,2,2,Offense,,Win,2,No,Blizzard World,Assault/Escort,15:37,1,3,1,0,32,17.48,Silver,17,10.29,Gold,2:40,1:34,Silver,13611,4925,Silver,1032,6035,Bronze,9,7.21
+9,285,2366,2343,-23,2390,2389,1,2,Support,,Loss,-1,My team,Temple of Anubis,Assault,12:56,5,0,0,0,20,17.48,Gold,13,10.29,Gold,4:04,1:34,Gold,10579,4938,Gold,10033,6042,Gold,7,7.21
+9,286,2343,2366,23,2335,2352,1,2,Tank,,Win,1,Enemy team,Oasis,Control,12:13,0,1,2,2,29,13.24,Bronze,18,6.43,Bronze,3:33,1:34,Silver,7378,4953,None,0,3.61,None,7,7.71
+9,287,2366,2389,23,2352,2357,1,1,Tank,Support,Win,2,No,Hanamura,Assault,15:58,1,0,1,3,31,17.51,None,23,10.33,Bronze,1:33,1:34,None,7277,4941,None,9367,6021,Gold,11,7.2
+9,288,2389,2367,-22,2358,2360,1,1,Support,,Loss,-1,No,Horizon Lunar Colony,Assault,,,,,,,,,,,,,,,,,,,,,,
+9,289,2367,2395,28,2359,2335,2,2,Tank,,Win,1,No,Dorado,Escort,10:47,2,1,1,1,29,12.22,Silver,14,6.3,Gold,3:31,2:13,Gold,8133,4897,Bronze,0,0,None,7,9.23
+9,290,2395,2422,27,2412,2409,1,2,Support,,Win,2,No,Watchpoint: Gibraltar,Escort,13:39,2,1,0,2,27,13.82,None,15,9.01,Gold,3:11,1:49,Gold,6400,3519,None,17227,8533,Silver,9,7.81
+9,291,2422,2401,-21,2423,2425,2,2,Support,,Loss,-1,No,Numbani,Assault/Escort,17:13,3,0,0,2,22,13.78,None,14,8.98,Gold,3:35,1:50,Gold,6311,3526,None,11321,8447,Gold,14,7.83
+9,292,2401,2377,-24,2413,2373,3,2,Support,,Loss,-2,No,Horizon Lunar Colony,Assault,12:26,3,0,0,2,18,13.8,None,4,8.8,Gold,0:33,1:47,Gold,4344,3527,None,9008,,Gold,10,7.84
+9,293,2377,2404,27,2344,2349,3,2,Support,,Win,1,No,Lijiang Tower,Control,6:13,0,1,1,3,15,21.82,None,12,13.13,Bronze,1:13,1:34,None,2367,5389,None,5723,8446,Silver,4,6.58
+9,294,2404,2381,-23,2379,P,5,6,Support,,Loss,-1,No,Junkertown,Escort,6:22,1,0,1,3,3,17.48,None,2,10.3,Bronze,0:48,1:35,None,1729,4929,None,6341,6060,Gold,7,7.21
+9,295,2381,2404,23,2354,2322,3,3,Support,,Win,1,No,Hanamura,Assault,11:59,1,1,0,3,21,13.9,None,13,8.84,None,2:36,1:47,Gold,3235,3498,None,11085,8454,Silver,9,7.84
+9,296,2404,2427,23,2414,2399,3,4,Support,,Win,2,No,Nepal,Control,10:07,0,1,1,3,19,17.48,None,12,10.3,None,1:20,1:35,Bronze,4028,4919,None,5855,6071,Silver,8,7.22
+9,297,2427,2447,20,2383,2395,5,6,Tank,,Win,3,No,Oasis,Control,13:45,0,0,1,4,13,17.46,None,11,10.3,None,2:53,1:35,Bronze,6264,4918,None,0,6048,None,14,7.23
+9,298,2447,2424,-23,2421,2416,2,2,Support,,Loss,-1,No,Oasis,Control,7:21,0,2,3,0,3,17.43,Bronze,2,10.28,Silver,0:43,1:35,Bronze,3364,4918,Bronze,4089,6047,Silver,10,7.24
+9,299,2424,2405,-19,2453,2382,3,3,Support,,Loss,-2,No,Blizzard World,Assault/Escort,18:34,3,0,1,1,32,17.43,Bronze,20,10.28,Gold,4:37,1:35,Gold,9094,4918,None,20847,6074,Gold,18,7.26
+9,300,2405,2385,-20,2390,2370,2,3,Support,Offense,Loss,-3,No,Route 66,Escort,5:33,3,1,0,1,6,17.42,Gold,3,10.28,Gold,0:56,1:35,Gold,3807,4921,None,3479,6074,Silver,6,7.26
+9,301,2385,2361,-24,2370,2383,2,2,Defense,,Loss,-4,No,Hollywood,Assault/Escort,5:12,3,1,0,1,4,16.49,Gold,4,7.49,Gold,0:11,0:48,Silver,4976,8099,Gold,0,0,None,6,8.3
+9,302,2361,2384,23,2416,2404,4,3,Support,,Win,1,No,Route 66,Escort,13:03,1,1,1,2,21,13.96,None,10,8.76,Bronze,2:39,1:50,Gold,4127,3524,None,11716,8476,Silver,8,7.98
+9,303,2384,2406,22,2364,2357,2,2,Support,,Win,2,No,King's Row,Assault/Escort,5:37,0,3,1,1,13,14.08,Bronze,10,8.88,Silver,0:43,1:50,Silver,2068,3527,None,5034,8485,Silver,2,7.92
+9,304,2406,2435,29,2403,2385,1,2,Support,,Win,3,No,Nepal,Control,9:34,1,2,0,2,17,14.16,None,10,8.91,Silver,1:38,1:50,Gold,3625,3533,None,10764,8544,Silver,7,7.91
+9,305,2435,2453,18,2386,2402,2,2,Tank,,Win,4,No,Temple of Anubis,Assault,17:01,1,1,0,3,18,17.38,None,15,10.27,Silver,1:34,1:35,Gold,8117,4916,None,0,6067,None,13,7.26
+9,306,2453,2480,27,2545,2538,2,2,Support,,Win,5,No,Horizon Lunar Colony,Assault,10:46,2,1,0,2,16,17.37,None,8,10.26,Gold,0:44,1:35,Gold,5045,4916,None,6426,6067,Silver,4,7.25
+9,307,2480,2503,23,P,P,2,2,Tank,,Win,6,No,Oasis,Control,12:09,0,0,1,4,16,17.37,None,9,10.26,None,2:40,1:35,Bronze,6011,4920,None,0,6048,None,9,7.25
+9,308,2503,2482,-21,2479,2477,1,1,Tank,,Loss,-1,No,Temple of Anubis,Assault,12:16,2,0,2,1,16,17.36,Bronze,13,10.26,Gold,2:56,1:35,Gold,8421,4926,Bronze,0,6028,None,12,7.26
+9,309,2482,2456,-26,2447,2457,2,2,Support,,Loss,-2,No,Junkertown,Escort,15:20,0,1,1,3,10,17.31,None,3,10.22,None,2:17,1:35,Bronze,3378,4915,None,9435,6029,Silver,19,7.28
+9,310,2456,2480,24,2476,2481,2,2,Support,,Win,1,Enemy team,Numbani,Assault/Escort,10:03,0,3,0,2,16,21.74,None,10,13.1,Silver,2:32,1:35,Silver,1770,5366,None,8639,8466,Silver,3,6.57
+9,311,2480,2457,-23,2477,2484,2,3,Tank,,Loss,-1,No,Hollywood,Assault/Escort,16:46,1,0,1,3,33,17.32,None,24,10.24,Gold,6:07,1:36,Bronze,9571,4911,None,300,6010,None,11,7.27
+9,312,2457,2480,23,2465,2466,2,2,Support,,Win,1,No,King's Row,Assault/Escort,16:39,0,1,0,4,26,17.31,None,13,10.23,None,2:41,1:36,None,9473,4914,None,14859,6023,Silver,9,7.26
+9,313,2480,2456,-24,2471,2471,2,1,Support,,Loss,-1,No,Watchpoint: Gibraltar,Escort,5:12,0,1,0,4,3,17.3,None,0,10.22,None,0:19,1:36,None,2369,4914,None,3280,6024,Silver,4,7.26
+9,314,2456,2428,-28,2469,2449,3,4,Tank,,Loss,-2,No,Ilios,Control,8:31,0,1,0,4,7,17.28,None,4,10.21,None,0:53,1:36,Silver,2335,4909,None,0,6010,None,8,7.27
+10,1,P,P,,P,P,2,2,Support,,Win,1,No,Oasis,Control,8:31,1,2,0,2,20,23.87,None,17,20.29,Silver,3:15,3:53,Gold,5074,6056,None,8074,9636,Silver,6,7.16
+10,2,P,P,,P,P,4,5,Support,,Loss,-1,No,Temple of Anubis,Assault,6:48,4,1,0,0,3,15.35,Silver,2,12.68,Gold,0:23,2:26,Gold,2257,4893,Gold,4461,8367,Gold,8,9.34
+10,3,P,P,,P,P,3,3,Tank,,Win,1,No,Nepal,Control,12:56,0,0,2,3,21,15.95,None,11,10.87,Bronze,1:21,1:48,None,7610,5414,None,2132,5315,Bronze,10,8.7
+10,4,P,P,,P,P,2,2,Tank,Offense,Loss,-1,No,Watchpoint: Gibraltar,Escort,14:02,1,0,0,4,17,14.69,None,8,9.15,None,3:50,2:07,Gold,7458,5396,None,0,3533,None,16,9.64
+10,5,P,P,,P,P,3,3,Support,Tank,Win,1,No,Blizzard World,Assault/Escort,10:02,0,1,3,1,23,16.34,Bronze,11,9.53,Bronze,1:31,2:01,Bronze,2736,4890,None,3340,3503,Silver,5,8.75
+10,6,P,P,,P,P,2,1,Support,,Loss,-1,No,Hanamura,Assault,10:11,1,1,0,3,4,14.33,None,0,7.98,None,0:38,1:47,Gold,1332,4309,None,7231,4109,Silver,10,8.95
+10,7,P,P,,P,P,3,5,Defense,Tank,Loss,-2,My team,Hollywood,Assault/Escort,12:15,1,0,2,2,22,14.96,Bronze,9,7.89,Gold,1:48,1:44,None,8076,4697,Bronze,0,3432,None,10,8.84
+10,8,P,P,,P,P,3,3,Tank,,Win,1,No,Junkertown,Escort,12:12,1,0,0,4,16,12.14,None,10,7.14,None,4:29,3:22,Gold,5460,4768,None,0,0,None,9,8.57
+10,9,P,P,,P,P,3,3,Support,,Win,2,No,Route 66,Escort,9:56,0,3,1,1,15,14.21,Bronze,13,7.94,Silver,3:24,1:45,Silver,3458,2434,None,5106,5387,Silver,5,6.27
+10,10,P,2414,,P,P,1,1,Support,,Loss,-1,No,King's Row,Assault/Escort,16:52,0,2,0,3,21,14.44,None,10,8.11,None,2:54,2:06,Silver,5805,4391,None,14575,4004,Silver,13,8.2
+10,11,2414,2388,-26,2363,2363,4,3,Support,,Loss,-2,No,Temple of Anubis,Assault,21:00,1,2,1,1,28,14.38,Bronze,21,8.48,Silver,2:28,1:58,Silver,9310,4433,None,12353,4334,Gold,19,8.4
+10,12,2388,2388,0,2355,2365,2,2,Support,Defense,Draw,0,No,King's Row,Assault/Escort,18:34,1,2,0,2,38,15.16,Silver,24,9.04,Gold,3:54,1:59,None,12659,4736,Silver,5858,4197,None,12,8.18
+10,13,2388,2367,-21,2244,2243,1,1,Support,,Loss,-1,My team,Horizon Lunar Colony,Assault,10:32,2,2,1,0,11,14.86,Silver,4,8.71,Bronze,0:31,1:53,Gold,3899,4673,Silver,10583,4584,Gold,8,8.15
+10,14,2367,2387,20,2341,2328,2,2,Tank,,Win,1,No,Lijiang Tower,Control,12:49,0,0,1,4,20,13.96,None,9,7.17,None,1:35,2:23,Bronze,7186,5231,None,0,0,None,11,8.68
+10,15,2387,2363,-24,2363,2372,1,1,Support,,Loss,-1,No,Volskaya Industries,Assault,5:11,0,3,2,0,6,14.86,Bronze,1,8.41,Silver,0:42,1:50,Silver,2737,4771,Bronze,5223,4428,Silver,5,8.25
+10,16,2363,2340,-23,2356,2362,2,2,Support,,Loss,-2,No,Volskaya Industries,Assault,14:58,1,1,1,2,19,14.73,None,11,8.35,Bronze,1:11,1:45,Silver,3527,4593,None,11179,4672,Gold,11,8.19
+10,17,2340,2363,23,2347,2329,2,2,Support,,Win,1,No,Watchpoint: Gibraltar,Escort,8:57,0,2,0,3,8,14.48,None,2,8.08,None,2:54,1:49,Silver,1822,4483,None,8187,4875,Silver,3,7.98
+10,18,2363,2337,-26,2356,2347,2,2,Support,,Loss,-1,No,Dorado,Escort,14:31,0,1,2,2,14,14.16,None,3,7.68,Bronze,2:13,1:48,Bronze,6462,4484,None,11876,5099,Silver,14,8.1
+10,19,2337,2361,24,2292,2292,1,2,Tank,,Win,1,No,Lijiang Tower,Control,15:36,0,1,1,3,39,18.18,Bronze,25,10.53,None,2:09,2:01,None,12837,6387,Silver,0,0,None,15,9.09
+10,20,2361,2339,-22,2343,2343,2,2,Tank,,Loss,-1,No,Eichenwalde,Assault/Escort,6:53,1,1,2,1,9,14.87,Silver,3,8.15,Bronze,0:24,1:45,Gold,2193,4700,None,693,4657,Bronze,6,8.23
+10,21,2339,2364,25,2340,2336,3,3,Support,,Win,1,No,Hanamura,Assault,13:30,2,1,0,2,23,14.99,None,14,8.27,Gold,1:12,1:42,Silver,4917,4646,None,7702,4716,Gold,8,8.11
+10,22,2364,2391,27,2384,2384,1,1,Support,,Win,2,Enemy team,Numbani,Assault/Escort,8:21,0,1,0,4,15,16.8,None,5,6.42,None,1:24,0:53,None,2423,3147,None,4315,5294,Silver,2,3.95
+10,23,2391,2416,25,2380,2383,2,2,Support,,Win,3,No,Oasis,Control,6:33,1,1,1,2,16,15.28,None,7,9.73,Bronze,1:04,2:13,Silver,2515,3891,None,5681,8482,Gold,2,8.34
+10,24,2416,2391,-25,2466,2431,2,3,Tank,,Loss,-1,No,King's Row,Assault/Escort,15:31,1,1,0,3,12,15.38,None,9,9.26,Silver,4:20,2:14,Gold,5357,5602,None,0,0,None,15,9.26
+10,25,2391,2416,25,2363,2359,3,3,Tank,,Win,1,No,Ilios,Control,12:14,0,1,2,2,25,15.17,None,16,8.35,Bronze,2:34,1:47,Silver,6678,4560,None,2994,4484,Bronze,5,7.77
+10,26,2416,2391,-25,2431,2435,4,3,Defense,Offense,Loss,-1,No,Eichenwalde,Assault/Escort,11:50,1,0,0,4,14,15.05,None,9,8.33,None,1:43,1:46,None,9594,4700,Gold,0,4312,None,15,7.97
+10,27,2391,2368,-23,2356,2360,1,1,Tank,Support,Loss,-2,No,Blizzard World,Assault/Escort,20:53,1,2,0,2,36,15.21,None,20,8.42,Silver,5:08,1:49,Gold,10521,4729,None,12149,4415,Silver,15,7.93
+10,28,2368,2346,-22,2342,P,1,1,Support,,Loss,-3,No,Horizon Lunar Colony,Assault,16:57,1,2,0,2,20,15.07,None,9,8.28,Silver,2:08,1:47,Gold,7022,4708,None,8191,4444,Silver,15,7.99
+10,29,2346,2370,24,2362,2360,1,1,Tank,,Win,1,No,Blizzard World,Assault/Escort,12:49,2,0,1,2,21,15.12,Bronze,13,8.35,Gold,3:17,1:49,Gold,7154,4741,None,0,4285,None,9,7.95
+10,30,2370,2346,-24,2348,2362,2,2,Tank,,Loss,-1,No,Route 66,Escort,21:23,1,1,1,2,26,14.97,None,13,8.23,Silver,5:44,1:52,Gold,12730,4816,Bronze,0,4046,None,15,7.91
+10,31,2346,2365,19,2346,2350,2,2,Tank,,Win,1,No,Temple of Anubis,Assault,14:58,0,0,2,3,14,13.47,None,7,7.09,None,1:04,1:59,Bronze,7414,5749,Bronze,0,0,None,12,8.71
+10,32,2365,2341,-24,2350,2343,2,2,Support,,Loss,-1,No,Eichenwalde,Assault/Escort,15:03,0,2,1,2,17,14.63,None,9,8.02,Silver,3:02,1:50,Bronze,6971,4817,None,11964,4044,Silver,16,8.02
+10,33,2341,2367,26,P,2330,2,3,Tank,,Win,1,Enemy team,Junkertown,Escort,7:37,0,1,1,3,29,15.25,None,11,7.63,None,2:38,2:05,Silver,4537,5772,Bronze,0,0,None,0,8.1
+10,34,2367,2389,22,2313,2310,1,1,Support,,Win,2,No,Nepal,Control,6:06,0,1,2,2,14,16.59,None,10,10.24,Bronze,0:43,2:13,Bronze,2065,4013,None,4519,8312,Silver,4,8.37
+10,35,2389,2409,20,P,P,2,2,Support,,Win,3,No,King's Row,Assault/Escort,15:57,0,1,1,3,23,15.17,None,10,8.19,None,2:48,1:51,Bronze,6678,4798,None,11350,4137,Silver,14,7.89
+10,36,2409,2432,23,2458,2457,1,1,Tank,,Win,4,No,Hollywood,Assault/Escort,12:53,1,0,2,2,24,15.63,None,16,8.15,Bronze,3:31,2:09,Gold,8340,5854,Bronze,0,0,None,8,7.9
+10,37,2432,2432,0,2449,2417,2,3,Tank,,Draw,0,No,Hanamura,Assault,8:14,0,1,0,4,7,15.19,None,2,7.79,None,0:09,2:02,None,6614,6004,Silver,0,0,None,7,7.95
+10,38,2432,2408,-24,2450,2448,4,2,Support,,Loss,-1,No,Oasis,Control,13:28,1,2,0,2,19,15.14,None,13,8.26,Silver,2:21,1:51,Gold,4398,4864,None,10127,4053,Silver,15,7.96
+10,39,2408,2388,-20,2498,2499,1,1,Support,,Loss,-2,No,Lijiang Tower,Control,14:21,1,0,1,3,17,15.05,None,9,8.21,None,1:32,1:49,Bronze,3895,4803,None,12688,4198,Gold,14,8.02
+10,40,2388,2409,21,2346,2365,2,2,Tank,Defense,Win,1,No,Watchpoint: Gibraltar,Escort,20:22,0,1,1,3,35,15.15,None,16,8.2,None,6:12,1:52,Bronze,13891,4889,Silver,0,4032,None,12,7.94
+10,41,2409,2435,26,2353,2341,1,2,Support,,Win,2,No,Eichenwalde,Assault/Escort,5:17,2,1,1,1,18,15.35,Silver,1,8.14,Bronze,0:16,1:52,Gold,2807,4895,None,5756,4105,Gold,1,7.88
+10,42,2435,2462,27,2543,2541,1,1,Tank,,Win,3,No,Rialto,Escort,15:41,1,1,0,3,30,15.35,None,15,7.88,Silver,5:37,2:11,Gold,9824,5977,None,0,0,None,9,7.88
+10,43,2462,2437,-25,P,P,1,1,Support,Defense,Loss,-1,No,Horizon Lunar Colony,Assault,14:38,0,2,1,2,11,15.27,None,5,8.06,Bronze,1:20,1:53,Silver,5377,4909,None,7807,4024,Silver,17,7.93
+10,44,2437,2460,23,P,P,2,2,Tank,,Win,1,No,Hanamura,Assault,14:46,1,0,3,1,40,16.44,Bronze,24,8.65,Bronze,2:58,2:10,Gold,11751,6163,Bronze,0,0,None,7,7.6
+10,45,2460,2430,-30,2518,2513,1,2,Tank,,Loss,-1,No,Eichenwalde,Assault/Escort,16:21,1,0,0,4,11,15.55,None,7,8.25,None,4:31,2:13,Gold,7073,5997,None,0,0,None,17,7.86
+10,46,2430,2402,-28,2433,2439,1,1,Defense,Tank,Loss,-2,No,Ilios,Control,8:37,0,0,3,2,12,15.32,None,6,8.15,Bronze,0:25,1:54,None,5126,4989,Bronze,1844,3781,Bronze,6,7.91
+10,47,2402,2423,21,2195,2203,1,1,Tank,,Win,1,No,Junkertown,Escort,18:21,0,2,1,2,28,15.32,None,11,8.09,Bronze,5:04,1:55,Silver,12457,5045,Silver,0,3665,None,11,7.85
+10,48,2423,2401,-22,P,P,3,3,Defense,Offense,Loss,-1,No,Lijiang Tower,Control,6:14,4,0,0,1,10,15.33,Gold,3,8.06,Gold,0:24,1:55,Gold,5268,5082,Gold,307,3633,None,7,7.89
+10,49,2401,2380,-21,2473,2476,3,2,Support,,Loss,-2,No,Route 66,Escort,10:47,1,2,0,2,9,15.21,None,5,8,Silver,3:51,1:56,Silver,3896,5057,None,8691,3712,Gold,9,7.9
+10,50,2380,2402,22,2323,2337,2,4,Tank,,Win,1,No,Dorado,Escort,17:35,0,1,2,2,38,15.4,Bronze,21,8.11,Silver,5:31,1:58,Bronze,11332,5100,None,0,3611,None,10,7.84
+10,51,2402,2377,-25,P,P,2,2,Support,,Loss,-1,No,King's Row,Assault/Escort,16:43,0,1,1,3,25,15.39,None,10,8.06,Bronze,1:48,1:57,None,8439,5099,None,5728,3607,Silver,17,7.91
+10,52,2377,2398,21,2394,2402,2,3,Support,Tank,Win,1,No,Watchpoint: Gibraltar,Escort,16:02,0,1,2,2,26,15.42,None,15,8.09,Silver,2:04,1:56,Bronze,6614,5077,None,2550,3559,Bronze,11,7.88
+10,53,2398,2375,-23,2563,2559,1,1,Tank,,Loss,-1,No,Hanamura,Assault,7:15,2,1,0,2,6,15.18,Silver,3,8.13,Gold,1:08,2:12,Gold,5203,6212,None,0,0,None,8,7.94
+10,54,2375,2352,-23,2355,2355,2,2,Support,,Loss,-2,No,Nepal,Control,14:49,1,1,0,3,17,15.27,None,7,7.98,None,1:40,1:55,Gold,5752,5077,None,7029,3549,Silver,11,7.91
+10,55,2352,2379,27,2368,2354,1,2,Support,,Win,1,No,Volskaya Industries,Assault,5:44,0,3,1,1,14,15.06,Bronze,4,8.56,Silver,0:19,2:09,Silver,2654,3815,None,5191,7726,Silver,2,8.74
+10,56,2379,2402,23,2355,2359,3,2,Offense,Defense,Win,2,No,Rialto,Escort,13:01,1,1,0,3,28,15.46,Silver,8,7.95,None,2:13,1:54,None,13547,5174,Gold,0,3530,None,10,7.87
+10,57,2402,2432,30,2411,2417,3,3,Support,,Win,3,No,Ilios,Control,9:09,3,0,1,1,19,15.51,Bronze,15,9.16,Gold,2:51,2:13,Gold,4044,3865,None,7629,7781,Gold,3,8.33
+10,58,2432,2457,25,2404,2413,2,1,Support,,Win,4,No,King's Row,Assault/Escort,15:21,1,0,0,4,22,15.51,None,9,8.01,None,1:57,1:54,None,4924,5125,None,13154,3698,Gold,10,7.79
+10,59,2457,2486,29,2473,P,1,1,Support,Tank,Win,5,No,Temple of Anubis,Assault,14:17,2,0,2,1,35,15.69,Gold,17,8.09,Bronze,2:16,1:54,Gold,9440,5156,None,7543,3731,Bronze,8,7.75
+10,60,2486,2521,35,2448,2475,2,4,Support,,Win,6,No,Lijiang Tower,Control,7:30,2,2,1,0,27,21.5,Silver,14,10.33,Silver,1:01,1:34,Gold,4619,5395,Bronze,5893,9387,Gold,3,7.09
+10,61,2521,2553,32,P,2529,2,2,Support,,Win,7,No,Watchpoint: Gibraltar,Escort,9:05,2,0,2,1,11,15.86,None,6,8.18,Gold,1:43,1:54,Bronze,6051,5186,Bronze,9409,3853,Gold,3,7.66
+10,62,2553,2573,20,2531,2533,1,1,Support,,Win,8,No,Route 66,Escort,5:21,0,2,0,3,0,0,None,0,0,None,0:50,1:08,Silver,0,148,None,4202,8718,Silver,1,6.87
+10,63,2573,2598,25,2623,2621,2,2,Support,,Win,9,No,Blizzard World,Assault/Escort,12:36,3,0,1,1,34,15.94,Bronze,13,8.16,Gold,3:12,1:54,Gold,5284,5136,None,8875,3934,Gold,4,7.55
+10,64,2598,2623,25,2584,2576,3,2,Support,,Win,10,No,Hollywood,Assault/Escort,19:07,3,0,1,1,56,16.27,Gold,33,8.39,Gold,3:49,1:54,Bronze,11540,5161,None,17258,4060,Gold,12,7.53
+10,65,2623,2623,0,2535,2531,2,2,Support,,Draw,0,No,Volskaya Industries,Assault,18:23,2,1,1,1,33,16.32,Silver,18,8.42,Gold,2:00,1:53,Bronze,8172,5149,None,14700,4152,Gold,10,7.49
+10,66,2623,2595,-28,2540,2560,3,4,Defense,Tank,Loss,-1,No,Hollywood,Assault/Escort,11:55,0,0,1,4,10,16.21,None,4,8.35,None,1:36,1:53,Bronze,4565,5130,None,0,4092,None,12,7.52
+10,67,2595,2572,-23,2450,2456,2,2,Support,,Loss,-2,No,Blizzard World,Assault/Escort,13:31,2,1,0,2,26,16.26,Gold,5,8.28,Silver,1:18,1:52,None,7805,5141,None,13316,4186,Gold,9,7.51
+10,68,2572,2596,24,2489,2488,1,2,Support,,Win,1,No,Volskaya Industries,Assault,13:47,2,1,0,2,25,16.29,None,12,8.29,Silver,1:54,1:52,Gold,5795,5127,None,13205,4274,Gold,8,7.48
+10,69,2596,2614,18,2488,2487,1,2,Tank,,Win,2,No,Oasis,Control,7:55,0,0,2,3,11,15.48,None,3,8.25,None,1:13,2:12,Bronze,4013,6238,Bronze,0,0,None,5,7.88
+10,70,2614,2593,-21,2719,2713,1,1,Support,,Loss,-1,No,Dorado,Escort,15:39,1,2,1,1,26,16.29,Bronze,16,8.29,Silver,5:00,1:53,Silver,5450,5101,None,12774,4309,Gold,9,7.45
+10,71,2593,2615,22,2632,2638,2,1,Support,,Win,1,No,Ilios,Control,11:30,1,0,0,4,9,16.18,None,5,8.24,None,1:03,1:52,None,1360,5051,None,9971,4366,Gold,8,7.44
+10,72,2615,2634,19,2660,2661,2,2,Support,,Win,2,Enemy team,King's Row,Assault/Escort,,,,,,,,,,,,,,,,,,,,,,
+10,73,2634,2612,-22,2717,2717,1,2,Tank,Defense,Loss,-1,No,Temple of Anubis,Assault,16:28,3,0,1,1,24,16.13,Gold,8,8.17,Gold,1:26,1:51,Gold,7929,5036,None,2279,4313,Bronze,13,7.45
+10,74,2612,2637,25,2641,2644,3,3,Tank,,Win,1,No,Oasis,Control,9:22,1,0,3,1,21,16.2,Bronze,15,8.25,Bronze,2:05,1:51,Gold,4007,5029,Bronze,0,4269,None,6,7.44
+10,75,2637,2662,25,2688,2687,2,3,Support,,Win,2,No,Lijiang Tower,Control,15:43,1,2,0,2,31,16.26,None,21,8.34,Silver,3:15,1:51,Gold,7282,5024,None,12537,4334,Silver,11,7.44
+10,76,2662,2638,-24,2710,P,2,2,Support,,Loss,-1,No,Watchpoint: Gibraltar,Escort,12:19,1,1,1,2,18,16.24,None,7,8.31,Gold,1:11,1:51,Bronze,4445,5006,None,9593,4379,Silver,10,7.45
+10,77,2638,2613,-25,2761,2757,2,1,Support,,Loss,-2,No,Route 66,Escort,14:47,3,0,0,2,17,16.17,None,12,8.31,Gold,4:36,1:52,Gold,4039,4972,None,10495,4422,Gold,8,7.42
+10,78,2613,2635,22,2593,2577,2,2,Tank,,Win,1,No,Horizon Lunar Colony,Assault,13:26,0,0,2,3,19,15.49,None,10,8.4,Bronze,1:16,2:08,Bronze,6954,6105,None,0,0,None,10,7.85
+10,79,2635,2656,21,2651,2648,2,2,Support,,Win,2,No,Dorado,Escort,16:12,0,2,0,3,21,16.1,None,8,8.24,None,3:57,1:52,Silver,5437,4951,None,9800,4391,Silver,14,7.44
+10,80,2656,2631,-25,2686,2708,1,2,Tank,,Loss,-1,No,Lijiang Tower,Control,14:05,0,1,2,2,25,16.13,Bronze,16,8.29,None,2:25,1:52,Silver,7398,4957,None,1412,4345,Bronze,8,7.42
+10,81,2631,2607,-24,2594,P,1,2,Support,Offense,Loss,-2,No,Hollywood,Assault/Escort,6:12,1,0,3,1,7,16.1,Bronze,2,8.26,Bronze,0:05,1:51,None,2104,4948,Bronze,6831,4387,Gold,5,7.42
+10,82,2607,2630,23,2623,2624,2,2,Support,,Win,1,No,Dorado,Escort,5:48,1,0,1,3,1,16.02,None,1,8.23,None,0:38,1:51,Bronze,160,4922,None,4852,4410,Gold,2,7.4
+10,83,2630,2655,25,2664,2642,4,5,Tank,,Win,2,No,Junkertown,Escort,13:57,2,0,2,1,30,15.83,Bronze,16,8.57,Gold,5:52,2:15,Gold,9534,6149,Bronze,0,0,None,6,7.66
+10,84,2655,2679,24,2696,2695,3,4,Support,,Win,3,No,Volskaya Industries,Assault,10:54,0,3,0,2,18,16.12,None,12,8.3,Silver,1:30,1:52,Silver,4161,4940,None,5897,4365,Silver,8,7.37
+10,85,2679,2656,-23,2693,2693,1,1,Support,,Loss,-1,No,Nepal,Control,6:39,0,1,2,2,5,15.82,Bronze,0,9.41,None,0:18,2:16,Bronze,2767,3829,None,4797,7677,Silver,6,8.29
+10,86,2656,2678,22,2632,P,4,3,Tank,,Win,1,No,Horizon Lunar Colony,Assault,12:03,1,2,1,1,29,16.16,Bronze,13,8.28,Silver,1:19,1:51,Gold,9973,4976,Silver,0,4335,None,8,7.37
+10,87,2678,2652,-26,2626,2596,1,1,Tank,Offense,Loss,-1,No,Numbani,Assault/Escort,15:24,0,0,0,5,19,16.11,None,11,8.27,None,1:52,1:51,None,7659,4976,None,882,4281,None,10,7.36
+10,88,2652,2675,23,2642,2646,2,1,Tank,,Win,1,No,Oasis,Control,9:26,2,1,0,2,19,16.1,None,9,8.53,Gold,1:04,2:09,Gold,6691,6307,Silver,0,0,None,7,7.64
+10,89,2675,2650,-25,2664,2655,2,2,Tank,,Loss,-1,No,Ilios,Control,9:30,0,0,1,4,10,16.1,None,2,8.23,None,0:47,1:50,Bronze,3942,4990,None,0,4208,None,10,7.39
+10,90,2650,2672,22,2655,2655,2,2,Support,,Win,1,No,Watchpoint: Gibraltar,Escort,12:26,0,1,0,4,14,16.05,None,7,8.2,None,1:48,1:50,None,2964,4961,None,7984,4234,Silver,11,7.41
+10,91,2672,2649,-23,2638,2640,2,2,Support,Tank,Loss,-1,No,Horizon Lunar Colony,Assault,6:28,2,1,1,1,3,15.98,Silver,1,8.16,Gold,0:07,1:49,Gold,2388,4954,Bronze,262,4212,None,6,7.42
+10,92,2649,2623,-26,2637,2648,3,3,Support,,Loss,-2,No,Temple of Anubis,Assault,12:27,1,2,0,2,20,15.99,None,6,8.13,Silver,0:32,1:48,Gold,3527,4931,None,9359,4250,Silver,6,7.39
+10,93,2623,2600,-23,2595,2600,4,4,Support,,Loss,-3,No,King's Row,Assault/Escort,17:26,1,0,1,3,22,15.94,None,14,8.13,None,3:09,1:48,Bronze,6230,4913,None,15533,4323,Gold,12,7.39
+10,94,2600,2575,-25,2593,2586,2,2,Tank,Support,Loss,-4,No,Oasis,Control,5:49,2,0,0,3,2,15.88,None,1,8.1,Gold,0:21,1:48,None,3038,4915,None,2640,4325,Gold,6,7.4
+10,95,2575,2598,23,2592,2596,2,2,Support,,Win,1,No,Horizon Lunar Colony,Assault,15:02,1,2,0,2,33,15.96,None,12,8.1,Gold,1:47,1:47,Silver,4697,4892,None,12928,4381,Silver,9,7.39
+10,96,2598,2617,19,2585,2553,2,4,Tank,,Win,2,No,Watchpoint: Gibraltar,Escort,10:44,0,0,0,5,18,15.97,None,6,8.08,None,1:25,1:47,None,2866,4872,None,0,4341,None,6,7.37
+10,97,2617,2593,-24,2596,2603,3,4,Tank,,Loss,-1,No,Volskaya Industries,Assault,12:59,0,1,1,3,14,15.92,None,7,8.05,None,1:21,1:47,Silver,7549,4883,Bronze,0,4294,None,11,7.38
+10,98,2593,2569,-24,2585,2588,1,1,Support,,Loss,-2,No,Rialto,Escort,11:27,1,1,2,1,14,15.88,None,8,8.04,Bronze,3:11,1:47,Silver,6147,4889,Bronze,6793,4310,Gold,10,7.4
+10,99,2569,2543,-26,P,2577,2,2,Support,Offense,Loss,-3,No,Route 66,Escort,11:56,1,0,3,1,25,15.93,Bronze,13,8.07,Gold,1:20,1:47,None,7635,4904,Bronze,3760,4299,Bronze,11,7.42

@@ -1,0 +1,48 @@
+When your assignment is complete, please answer the questions in this text file and upload it to I-Learn.
+
+Name:
+
+1. Please provide the URL of your public GitHub repository.
+
+https://github.com/eversolea/CS450/blob/master/week1/Prove.py
+
+For questions 2-6, please type "True" or "False" in front of the question number.
+
+2. My experiment shell can correctly load the Iris dataset:
+
+Trie
+
+3. My experiment shell randomizes the order of the instances (making sure to keep instances lined up with their appropriate targets) it and splits the data into a training set (70%) and a test set (30%)?
+
+true
+
+4. I have GaussianNB algorithm on the dataset and received results.
+
+True
+
+5. I have created a HardCoded classifier class with two methods: fit and predict. The fit method accepts training data (including targets). The predict method returns a prediction or classification for each instance it receives.
+
+True
+
+6. The Experiment Shell, processes the data, passes the training data to the classifier’s train method, the test data to the predict method, and then compares the predicted values against the correct answers, to produce an overall accuracy (on the test set).
+
+True
+
+7. I have run the HardCoded classifier on the Iris dataset and obtained a result.
+
+True
+
+8. What accuracy do you get when running the HardCoded classifier on the Iris dataset and why do you think that is?
+
+.38 with the hardcoded. Because it gets all the other classes wrong! Gaussian is .96 which is significantly better.
+
+9. Please select the category you feel best describes your assignment:
+1 - Some attempt was made
+2 - Developing, but significantly deficient
+3 - Slightly deficient, but still mostly adequate
+4 - Meets requirements
+5 - Shows creativity and excels above and beyond requirements
+
+10. Provide a brief justification (1-2 sentences) for selecting that category: 
+
+4 - I didn't research beyond much of the requirements of this assignment, but I did fulfill the requirements and show the difference between Gaussian and hardocded algorighms in the Console.

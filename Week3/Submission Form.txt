@@ -2,17 +2,23 @@ When your assignment is complete, please answer the questions in this text file 
 
 1. Please provide the URL of your public GitHub repository.
 
+https://github.com/eversolea/CS450/tree/master/Week3
 
 2. What was the most difficult part of this assignment?
 
+Solving all the class specific errors was by far the most difficult part of this assignment. I was never able to get the 2nd and 3rd datasets to work, because of an "EOL while scanning literal" error. I was able to solve all the other errors though: including the dataframe to numpydarray conversion, and a whole slew of other errors.
 
 3. Briefly describe your process for handling non-numeric data.
 
+It goes through all the columns in the dataframe and indepndently orders each column numerically starting from 0.
 
 4. Briefly describe your process for missing data.
 
+I replace all ? symbols with NaN. I would do that with empty spots as well. 
 
 5. Describe your results for the Car Evaluation dataset.
+
+So I did a lot of experimintation with this dataset! Behold:
 
 Experimentation:
 
@@ -21,16 +27,21 @@ k=3 new seed: .8877
 k=12        : .875
 k=30        : .8666
 
+I noticed that the more neighbors the kNN algorithm used, the less accurate it became. Looks like 3 is the golden number. Also through a new seed for the training and testing set generation method. Looks like it is around the same Accuracy as the other seed.
+
 
 
 6. Describe your results for the Pima Indian dataset.
 
+I would love too! I wish I could get this one working so bad. But as unforuntate enough as it is, I was not get this one working because of the infamous synatax error: "EOL while scanning string literal"
 
 7. Describe your results for the Automobile MPG dataset.
 
+I would love too for this dataset as well! I wish I could get this one working so bad. But as unforuntate enough as it is, I was not get this one working because of the infamous synatax error: "EOL while scanning string literal"
 
 8. Describe anything you did to go above and beyond the minimum standard requirements.
 
+I did quite a bit of experimentation, including changing the random seed. 
 
 9. Please select the category you feel best describes your assignment:
 A - Some attempt was made
@@ -42,7 +53,5 @@ E - Shows creativity and excels above and beyond requirements
 
 10. Provide a brief justification (1-2 sentences) for selecting that category.
 
+I think I should get a low D on this assignment. I met all the requirements except Basic experimentaiton on the required data sets because I didn't experiment with the last 2 datasets, just the first one (due to the errors I couldn't fix in getting the kNN algorithm to work with those datasets). I had alogirthms written in to handle missing data and non-numeric data though.
 
-
-
-I got an "EOL while scanning literal"

@@ -1,0 +1,7 @@
+Bus Perdiction:
+Using Machine Learning algorithms, we will perdict when the next bus will come in. This will factor in many previous bus times including: times when the bus was late, times when loading people took time, etc.
+
+Austin
+Alex
+Adrian
+
